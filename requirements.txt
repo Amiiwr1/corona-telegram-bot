@@ -1,0 +1,6 @@
+aiohttp
+requests
+python-telegram-bot
+telethon
+telegram
+bs4
